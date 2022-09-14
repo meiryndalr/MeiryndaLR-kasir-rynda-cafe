@@ -17,5 +17,11 @@ IF NM && Q = true
 ELSE WRITE NC && NM
 ENDIF
 
-IF PEM
+IF READ pembayaran = via e-wallet THEN
+    PRINT "pembayaran terkonfirmasi"
+else
+    via cash THEN
+    PRINT "pembayaran terkonfirmasi
+ENDIF
+
 
