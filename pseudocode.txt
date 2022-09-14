@@ -21,7 +21,7 @@ IF READ pembayaran = via e-wallet THEN
     PRINT "pembayaran terkonfirmasi"
 else
     via cash THEN
-    PRINT "pembayaran terkonfirmasi
+    PRINT "pembayaran terkonfirmasi"
 ENDIF
 
 
