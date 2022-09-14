@@ -106,6 +106,33 @@
                         <mxPoint x="523" y="890" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="27" value="" style="endArrow=none;html=1;fontSize=15;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="523" y="511" as="sourcePoint"/>
+                        <mxPoint x="523" y="890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="endArrow=classic;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="32" target="29">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="405.66" y="852" as="sourcePoint"/>
+                        <mxPoint x="405.66" y="932" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="313" y="960" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Perhitungan total &lt;br&gt;Pesanan&lt;br&gt;Hasil = Q * Harga Menu" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="318" y="965" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=classic;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="405.0999999999999" y="1030" as="sourcePoint"/>
+                        <mxPoint x="405.0999999999999" y="1110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="YA" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="390.5" y="920" width="30" height="20" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
