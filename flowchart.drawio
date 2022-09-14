@@ -76,6 +76,36 @@
                         <mxPoint x="465.8399999999999" y="509.5999999999999" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="20" value="" style="endArrow=none;html=1;fontSize=15;startArrow=none;" edge="1" parent="1" source="25">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="406" y="890" as="sourcePoint"/>
+                        <mxPoint x="523" y="890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="327.75" y="740" width="155.5" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="if pesanan = true&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="343" y="788" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="YA" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="390.5" y="920" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="endArrow=none;html=1;fontSize=15;entryX=0.515;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="23">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="406" y="860" as="sourcePoint"/>
+                        <mxPoint x="405.7000000000003" y="959.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="TIDAK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="435" y="880" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=none;html=1;fontSize=15;" edge="1" parent="1" target="25">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="406" y="890" as="sourcePoint"/>
+                        <mxPoint x="523" y="890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
