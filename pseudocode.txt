@@ -2,11 +2,20 @@ program kasir_rynda_cafe
 
 Deskripsi:
 var NC dan NM:char
-var  Q dan TOTAL:integer
+var  Q, HARGA dan TOTAL:integer
 
 Implementasi :
 READ AND WRITE "NC" with char
 READ AND WRITE "NM" with char
 READ AND WRITE "Q" with int
+READ HARGA with int
 STORE "TOTAL" with int
+
+TOTAL <- Q * HARGA
+IF NM && Q = true
+    THEN PRINT TOTAL
+ELSE WRITE NC && NM
+ENDIF
+
+IF PEM
 
